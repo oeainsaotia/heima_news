@@ -1,0 +1,16 @@
+server:
+  port: 51803
+spring:
+  application:
+    name: leadnews-wemedia
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+
+tess4j:
+  data-path: D:\heima-leadnews\tessdata
+  language: chi_sim
