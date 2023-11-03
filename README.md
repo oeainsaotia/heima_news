@@ -7,15 +7,6 @@
 git clone https://github.com/oeainsaotia/heima_news.git
 ```
 
-使用以下开源框架：
-* Glide 图片加载库 https://github.com/google/gson
-
-* GSON Google提供的JSON与Java对象转换类库 https://github.com/bumptech/glide
-
-* okhttp 网络框架 https://github.com/square/okhttp
-
-以及少量Android自带组件，具体见build.gradle
-
 ## 进度条：75%
 已做: 
 
