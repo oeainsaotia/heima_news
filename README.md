@@ -32,4 +32,14 @@ git clone https://github.com/oeainsaotia/heima_news.git
 
 10.mongodb实现历史信息查看
 
-11.
+11. ...
+
+## 图片
+![屏幕截图 2023-11-03 103059](https://github.com/oeainsaotia/heima_news/assets/71313598/2d259014-e68a-4ca5-a890-bc53f5aeb211)
+![屏幕截图 2023-11-03 103024](https://github.com/oeainsaotia/heima_news/assets/71313598/e4d53a28-6a61-4291-a434-fc3b66fca5d3)
+![屏幕截图 2023-11-03 101859](https://github.com/oeainsaotia/heima_news/assets/71313598/a7769f89-749b-46ac-a569-faea6f6c0518)
+![屏幕截图 2023-11-03 101619](https://github.com/oeainsaotia/heima_news/assets/71313598/dc73b7ab-5683-4d19-a4ee-d9093326cb7b)
+
+
+
+
